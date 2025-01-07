@@ -1,0 +1,1 @@
+# linuxtips-arquitetura-containers-aws-multiregion-sales-workload
